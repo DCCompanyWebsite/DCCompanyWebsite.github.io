@@ -46285,8 +46285,9 @@ A.u0.prototype={
 F(a){var s=null
 return A.ps(s,A.az_(this.c,B.i,28),s,this.d,s,s)}}
 A.MC.prototype={
-F(a){var s=null,r=A.D(a,s,t.w).w
-return A.b5(s,A.cK(A.b([A.a2P(B.t,A.tT("assets/images/logowhite.png",s,B.dG),r.a.a*0.08),B.EH,B.EI,B.EG],t.p),B.F,B.c_,B.B,0),B.D,s,s,B.A1,s,s,s,s,s,s,s,1/0)}}
+F(a){var s=null,r=t.w,q=A.D(a,s,r).w,p=A.D(a,s,r).w
+r=A.D(a,s,r).w
+return A.b5(s,A.cK(A.b([A.a2P(B.t,A.tT("assets/images/logowhite.png",s,B.dG),(q.a.b-p.r.b-r.r.d)*0.03),B.EH,B.EI,B.EG],t.p),B.F,B.c_,B.B,0),B.D,s,s,B.A1,s,s,s,s,s,s,s,1/0)}}
 A.u2.prototype={
 F(a){var s=null,r=t.w
 return A.dv(this.c,A.dj(s,s,B.i,s,s,s,s,s,"LNA_Light",s,s,10,s,s,B.ai,s,(A.D(a,s,r).w.a.b-A.D(a,s,r).w.r.b-A.D(a,s,r).w.r.d)*0.002,!0,s,s,s,s,s,s,s,s),s,B.u)}}
